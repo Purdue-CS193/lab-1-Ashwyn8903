@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Ash's first CS193 Lab
-## Header 2
+
 # Favorite Things about CS193
 
 - Learn helpful computer science tools
@@ -20,8 +20,6 @@ Syntax highlighted code block
 - Get help on assignments and issues
 - Fun and young teachers who can share their experiences
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
